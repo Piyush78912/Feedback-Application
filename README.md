@@ -20,5 +20,5 @@ The Feedback Application is a Java-based project designed to collect and manage 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/feedback-application.git
+   git clone https://github.com/Piyush78912/feedback-application.git
    cd feedback-application
